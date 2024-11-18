@@ -1,11 +1,13 @@
 # SVG to PNG Convertor Tool
 
-####To Install Deps
+#### To Install Deps
 ```
 npm install
 ```
 
-####To run the code
+#### To run the code
 ```
 npm run dev
 ```
+
+Coded by Vinay Chaudhary
